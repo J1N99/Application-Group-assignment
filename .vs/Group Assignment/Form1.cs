@@ -18,8 +18,8 @@ namespace Group_Assignment
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This is a testing");
-            MessageBox.Show("OK Fine it's okay testing");
+            MessageBox.Show("This is a testing help me");
+        
         }
     }
 }
