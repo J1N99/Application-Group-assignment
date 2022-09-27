@@ -19,7 +19,7 @@ namespace Group_Assignment
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("This is a testing");
-            MessageBox.Show("OK");
+            MessageBox.Show("OK Fine it's okay testing");
         }
     }
 }
